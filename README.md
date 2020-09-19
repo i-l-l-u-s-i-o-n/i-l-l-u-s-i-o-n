@@ -5,7 +5,8 @@
 - ⚡ Just a fact: Time is but a stubborn ***i-l-l-u-s-i-o-n***.
 <br />
 
-### Languages and Tools:
+
+### :computer:Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="JAVA" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
@@ -25,6 +26,8 @@
 <br />
 <br />
 
+
+### :notebook_with_decorative_cover:GitHub Summary:
 
 <img align="left" alt="Summary" src="summary.png" />
 
