@@ -2,7 +2,7 @@
 
 
 - 🔭 I'm a Developer and Machine Learning Enthusiast
-- ⚡ Just a fact: Time is but a stubborn ***i-l-l-u-s-i-o-n***.
+- ⚡ Just a fact: Time is nothing but a stubborn ***i-l-l-u-s-i-o-n***.
 <br />
 
 
