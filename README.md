@@ -1,4 +1,4 @@
-### Hi there, I'm [Shivam Shukla](https://i-l-l-u-s-i-o-n.github.io/portfolio/) 👋
+### Hi there, I'm [Shivam Shukla](https://i-l-l-u-s-i-o-n.github.io/folio/) 👋
 
 
 - 🔭 I'm a Developer and Machine Learning Enthusiast
@@ -6,7 +6,7 @@
 <br />
 
 
-### :computer:Languages and Tools:
+### :computer: Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="JAVA" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
